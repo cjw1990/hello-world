@@ -1,4 +1,4 @@
 # hello-world
 my Git hello word
 -----------
-分之文件
+分支更改合并到master文件
